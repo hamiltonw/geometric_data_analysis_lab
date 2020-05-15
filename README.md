@@ -1,1 +1,1 @@
-# geometric_data_analysis_lab
+# Geometric Data Analysis Labs
